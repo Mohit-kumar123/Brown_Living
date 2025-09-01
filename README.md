@@ -28,4 +28,3 @@ This is a simple Node.js/Express backend with two APIs:
 
 ---
 
-For assignment submission, upload this folder to a GitHub repository and share the link.
